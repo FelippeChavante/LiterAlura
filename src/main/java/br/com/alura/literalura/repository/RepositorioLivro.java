@@ -1,6 +1,6 @@
-package br.com.alura.literalura.literalura.repository;
+package br.com.alura.literalura.repository;
 
-import br.com.alura.literalura.literalura.modelo.Livro;
+import br.com.alura.literalura.modelo.Livro;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

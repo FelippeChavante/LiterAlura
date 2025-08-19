@@ -1,9 +1,9 @@
-package br.com.alura.literalura.literalura;
+package br.com.alura.literalura;
 
-import br.com.alura.literalura.literalura.modelo.Autor;
-import br.com.alura.literalura.literalura.modelo.Livro;
-import br.com.alura.literalura.literalura.servico.ServicoAutor;
-import br.com.alura.literalura.literalura.servico.ServicoLivro;
+import br.com.alura.literalura.modelo.Autor;
+import br.com.alura.literalura.modelo.Livro;
+import br.com.alura.literalura.servico.ServicoAutor;
+import br.com.alura.literalura.servico.ServicoLivro;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 

@@ -1,7 +1,7 @@
-package br.com.alura.literalura.literalura.servico;
+package br.com.alura.literalura.servico;
 
-import br.com.alura.literalura.literalura.modelo.Livro;
-import br.com.alura.literalura.literalura.repository.RepositorioLivro;
+import br.com.alura.literalura.modelo.Livro;
+import br.com.alura.literalura.repository.RepositorioLivro;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

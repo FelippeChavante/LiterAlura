@@ -1,7 +1,7 @@
-package br.com.alura.literalura.literalura.servico;
+package br.com.alura.literalura.servico;
 
-import br.com.alura.literalura.literalura.modelo.Autor;
-import br.com.alura.literalura.literalura.modelo.Livro;
+import br.com.alura.literalura.modelo.Autor;
+import br.com.alura.literalura.modelo.Livro;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.stereotype.Service;
